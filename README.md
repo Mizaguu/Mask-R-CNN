@@ -1,0 +1,1 @@
+Mask R-CNN (Mask Regional Convolutional Neural Network) is a state-of-the-art framework for Instance Segmentation. While object detection (like Faster R-CNN) identifies bounding boxes, Mask R-CNN goes a step further by identifying the exact pixels that belong to each object.
